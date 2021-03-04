@@ -22,6 +22,10 @@
 - [ ] If Agency/Business, change the final use/purpose of the info. , has to notify the user and ask for his agreement.
 - [ ] If the user decide, that the change of purpose is not right, the agency has to allow the user unsuscribed(delete his info).
 
+# Principle 4, Manner of collection of personal information.
+
+- [ ] Let the user know that his info is been collected.
+- [ ] Collect info from persons that are on 100% of his faculties(no childs or people with mental disabilities).
 
 
 
