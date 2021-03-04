@@ -5,8 +5,8 @@ Privacy Policy
 
 # Access to personal information
 
-[..]Send a Email notification, about the use of your personal information.
-[..]Asked the agreement to use the personal info.
+[ ]Send a Email notification, about the use of your personal information.
+[ ]Asked the agreement to use the personal info.
 
 
 
