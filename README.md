@@ -20,7 +20,7 @@
 # Principle 10, Limits on use of personal information.
 
 - [ ] If Agency/Business, change the final use/purpose of the info. , has to notify the user and ask for his agreement.
-- [ ] If the user decide, that the change of purpose is not.
+- [ ] If the user decide, that the change of purpose is not right, the agency has to allow the user unsuscribed(delete his info).
 
 
 
